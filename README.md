@@ -1,8 +1,10 @@
 Madan Patil – Learning & Development Portfolio
 
+
 This repository showcases structured learning interventions, simulations, and skill-development initiatives designed and facilitated for MCA students, IT professionals, and employees.
 
 The activities focus on experiential learning, communication enhancement, strategic thinking, time management, and applied industry exposure.
+
 
 Key Learning Interventions
 
@@ -15,6 +17,7 @@ Promo-Press – Communication & Media Strategy Activity
 Mini-India-Expo – Cultural Intelligence & Team Collaboration Initiative
 
 Strategic Time Management Simulation – Productivity & Decision-Making Exercise
+
 
 Core Competencies Demonstrated
 
