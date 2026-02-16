@@ -3,7 +3,7 @@ Madan Patil – Learning & Development Portfolio
 
 
 
-This repository showcases structured learning interventions, simulations, and skill-development initiatives designed and facilitated for MCA students, IT professionals, and employees.
+This repository showcases structured learning interventions, simulations, and skill-development initiatives designed and facilitated for MCA students, IT professionals, and employees of The Baap Company.
 
 The activities focus on experiential learning, communication enhancement, strategic thinking, time management, and applied industry exposure.
 
