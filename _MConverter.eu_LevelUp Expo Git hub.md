@@ -1,4 +1,4 @@
-**📌 LevelUp Expo -- Skill Enhancement Showcase**
+**📌 LevelUp Expo - Skill Enhancement Showcase**
 
 **📖 Activity Overview**
 
